@@ -1,5 +1,7 @@
-Hi, I’m Azure (though if you've met me offline, you probably know me as Pedro).
-I’m currently studying to become a computer scientist. I also have a passion for reading, watching cartoons, and worldbuilding.
+Hi, I’m Azure (though if you've met me irl, you probably know me as Pedro).
+
+I’m currently studying to become a computer scientist.
+I also have a passion for reading, watching cartoons, and worldbuilding.
 
 <div align="center">
   <a href="https://github.com/AzurePi">
