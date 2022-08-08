@@ -2,7 +2,7 @@ name: Generate Datas
 
 on:
   schedule: 
-    - cron: "* */12 * * *" #executa num cronômetro de 12 horas
+    - cron: "*/30 */6 * * *" #executa num cronômetro de 12 horas
   workflow_dispatch:
 
 jobs:
