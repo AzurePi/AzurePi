@@ -6,7 +6,7 @@ I also have a passion for reading, watching cartoons, and worldbuilding (I'm muc
 
 <div align="center">
   <a href="https://github.com/AzurePi">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=AzurePi&show_icons=true&include_all_commits=true&count_private=true&title_color=8A2BE2&border_color=19e5e6&text_color=19e5e6&icon_color=0b6464&bg_color=0,26142a,101049"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=AzurePi&show_icons=true&include_all_commits=true&count_private=true&title_color=8A2BE2&border_color=00cccc&text_color=00cccc&icon_color=0e7d7d&bg_color=0,26142a,101049"/>
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AzurePi&layout=compact&langs_count=7&theme=aura"/>
 </div>
 
