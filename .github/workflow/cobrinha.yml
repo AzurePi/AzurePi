@@ -8,6 +8,7 @@ on:
 jobs:
   build:
     name: job de criar cobrinha
+    runs-ons: ubuntu-latest
     steps:
       - uses: Platane/snk@v2
         id: snake-gif
