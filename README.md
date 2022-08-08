@@ -11,8 +11,7 @@ I also have a passion for reading, watching cartoons, and worldbuilding (I'm muc
 </div>
 
 <div>
-  ![Snake Animation Light](https://github.com/AzurePi/AzurePi/blob/output/github-snake.svg#gh-light-mode-only)
-  ![Snake Animation Dark](https://github.com/AzurePi/AzurePi/blob/output/github-snake-dark.svg#gh-dark-mode-only)
+  ![Snake Animation Light](https://github.com/AzurePi/AzurePi/blob/output/github-contribution-grid-snake.svg)
 </div>
 <!---
 AzurePi/AzurePi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
