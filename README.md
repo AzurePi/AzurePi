@@ -19,7 +19,6 @@ I also have a passion for reading, watching cartoons, and worldbuilding (I'm muc
   <img style="padding:0 1rem 0 0" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img style="padding:0 1rem 0 0" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img style="padding:0 1rem 0 0" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img style="padding:0 1rem 0 0" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg">
   <img style="padding:0 1rem 0 0" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
 <img align="right" height="160em" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
