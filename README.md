@@ -22,7 +22,7 @@ I also have a passion for reading, watching cartoons, and worldbuilding (I'm muc
   <div>
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-    <img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">  
+    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">  
   </div>
   <div>
      <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg">  
