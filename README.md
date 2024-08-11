@@ -15,21 +15,25 @@ I also have a passion for reading, watching cartoons, and worldbuilding (I'm muc
 #
 
 <div>
-  <img style="padding:0 1rem 0 0" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img style="padding:0 1rem 0 0" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img style="padding:0 1rem 0 0" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img style="padding:0 1rem 0 0" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img style="padding:0 1rem 0 0" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <div>
+    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  </div>
+  <div>
+    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+    <img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">  
+  </div>
+  <div>
+     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg">  
+  </div>
 </div>
+
+
 <img align="right" height="160em" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
-
-
-
 
 <div align="center">
 
 ![Snake animation](https://github.com/AzurePi/AzurePi/blob/output/github-contribution-grid-snake.svg)
-  
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AzurePi&theme=redical&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
 </div>
