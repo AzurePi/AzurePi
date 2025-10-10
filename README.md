@@ -1,6 +1,6 @@
 Hi, I’m Azure (though if you've met me irl, you probably know me as Pedro).
 
-I’m currently studying to become a computer scientist. My coding skills are getting better little by little.
+I’m currently studying to become a computer scientist.
 I also have a passion for reading, watching cartoons, and worldbuilding (I'm much better at those).
 
 #
