@@ -30,9 +30,6 @@ I also have a passion for reading, watching cartoons, and worldbuilding (I'm muc
   </div>
 </div>
 
-
-<img align="right" height="160em" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
-
 <div align="center">
 
 ![Snake animation](https://github.com/AzurePi/AzurePi/blob/output/github-contribution-grid-snake.svg)
